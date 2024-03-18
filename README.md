@@ -1,2 +1,9 @@
 # SC-Assets
-Resourcepack asset for custom Items for public Minecraft Server SecretCraft
+---
+
+Assets für den Minecraft Server SecretCraft zur einfacheren Handhabung von Custom Items.
+
+# Installation
+
+Resourcenpaket einfach in den dafür vorgesehenen Ordner ziehen und im Spiel auszählen.
+Um Texturen richtig anzuzeigen, sollte das Assets Packet an oberster Stelle stehen.
